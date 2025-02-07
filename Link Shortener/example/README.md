@@ -25,7 +25,7 @@ During the internship at **MotionCut Technologies**, I developed a **Link Shorte
 ## Technologies Used 🛠️
 
 - **Programming Language**: Java ☕
-- **Development Tools**: IntelliJ IDEA, Maven
+- **Development Tools**: Maven
 - **Version Control**: GitHub
 
 ## How to Use 🖥️
